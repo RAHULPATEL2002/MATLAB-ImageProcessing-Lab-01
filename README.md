@@ -25,54 +25,62 @@ The code demonstrates basic image processing techniques and 2D plotting in MATLA
 - **Gray Image (Built-in Function)**  
   The color image was converted to grayscale using the `rgb2gray` MATLAB function.
 
-  ![Gray Image](gray_image_UI22EC58.png)
+  ![image](https://github.com/user-attachments/assets/1f9a0283-2d83-4acc-82e0-84de1cb92514)
+
 
 - **Gray Image (Average Method)**  
   Grayscale conversion using the average of the R, G, and B channel values.
 
-  ![Gray Image - Average Method](gray_image_average_UI22EC58.png)
+ ![image](https://github.com/user-attachments/assets/d09fa943-b371-4712-b572-dc6b65fb8497)
 
 - **Gray Image (Weighted Method)**  
   Grayscale conversion using the weighted sum of R, G, and B channels (0.3, 0.59, 0.11 respectively).
 
-  ![Gray Image - Weighted Method](gray_image_weighted_UI22EC58.png)
+ ![image](https://github.com/user-attachments/assets/59d36ba1-52a2-4ed5-b33b-bbd5a82d5fed)
+
 
 - **RGB to Indexed Image**  
   The RGB image was converted to an indexed image with 16 colors.
 
-  ![Indexed Image](index_image_UI22EC58.png)
+  ![image](https://github.com/user-attachments/assets/c3c8391d-2c48-4f5c-94a4-dccead5af286)
+
 
 - **Binary Image (Built-in Function)**  
   Conversion of the grayscale image to a binary image using MATLAB’s `im2bw` function.
 
-  ![Binary Image - Built-in Function](binary_image_UI22EC58.png)
+  ![image](https://github.com/user-attachments/assets/f1a9686b-2985-4187-ad1c-b637258e3b8b)
+
 
 - **Binary Image (Manual Threshold)**  
   Manual conversion to binary using a threshold value of 128.
 
-  ![Binary Image - Manual](manual_binary_image_UI22EC58.png)
+  ![image](https://github.com/user-attachments/assets/07104780-14a6-45b6-9033-0bc93f86499a)
+
 
 ## Task 2: Image Manipulations
 
 - **Black Image**  
   A black image generated using zeros in MATLAB.
 
-  ![Black Image](black_image_UI22EC58.png)
+ ![image](https://github.com/user-attachments/assets/dfac600e-c933-46e4-89a3-0c8fa3cd0bc1)
+
 
 - **White Image**  
   A white image generated using ones in MATLAB.
 
-  ![White Image](white_image_UI22EC58.png)
+  ![image](https://github.com/user-attachments/assets/8967f4d1-df20-458d-aa43-fe736c39f4c8)
 
 - **Black-in-White Image**  
   An image where black pixels are set within a white background.
 
-  ![Black-in-White Image](black_in_white_image_UI22EC58.png)
+  ![image](https://github.com/user-attachments/assets/53e660f0-e540-456f-9446-b6a873c8285a)
+
 
 - **White-in-Black Image**  
   An image where white pixels are set within a black background.
 
-  ![White-in-Black Image](white_in_black_image_UI22EC58.png)
+  ![image](https://github.com/user-attachments/assets/37546845-64b9-49dd-9c80-0ff9a2edc231)
+
 
 ## Task 3: 2D Function Plotting
 
@@ -81,7 +89,8 @@ This task involved plotting a 2D function of the form `f(x, y) = a * sin(u(x) * 
 - **2D Function Plot**  
   A random 2D sine wave was plotted based on the equation mentioned above.
 
-  ![2D Function Plot](2d_function_plot_UI22EC58.png)
+  ![image](https://github.com/user-attachments/assets/a5a2351b-4036-49f5-9827-e63bca757161)
+
 
 ## How to Run the Code
 
